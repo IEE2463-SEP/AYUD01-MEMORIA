@@ -48,7 +48,6 @@ type ram_array is array (0 to 3) of std_logic_vector (3 downto 0);
 signal ram_data: ram_array := (
         b"1010", b"1111", b"0011", b"1001"
 );
-signal concat: std_logic_vector (1 downto 0):= b"00";
 begin
 
 process(clk)
