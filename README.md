@@ -6,7 +6,7 @@ Ejercitaremos conceptos de *entity, architecture y library*.
 
 Este laboratorio nos introduce a la tarjeta de desarrollo ZYBO Z7 y un primer ejemplo en VHDL  para utilizar sus perféricos más simples.
 
-1. Previo a nuestra ayudantía debes revisar este [video]() y ejecutarlo en tu casa.
+1. Previo a nuestra ayudantía debes revisar este [video](https://youtu.be/KSbtyjlAkPU) y ejecutarlo en tu casa.
 
 2. Los documentos asociados a la ejecución de esta ayudantía son:
     * [AYUD01-Guia Ejercicio](https://github.com/IEE2463-SEP/AYUD01-MEMORIA/blob/main/AYUD01_ENTITY_ARCHITECTURE.pdf):  Guía de ejercicios asociado a la ayudantía. 
